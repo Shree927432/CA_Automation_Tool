@@ -71,8 +71,6 @@ This tool automates the reconciliation process by:
 
 Hi [Client Name], please submit invoice [Invoice Number] for ₹[Amount].
 
-### Portal Missing Entries:
-
 ---
 
 📈 Use Case
