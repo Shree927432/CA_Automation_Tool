@@ -76,13 +76,6 @@ Hi [Client Name], please submit invoice [Invoice Number] for ₹[Amount].
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install pandas
-python main.py
-
-
 📈 Use Case
 
 * Chartered Accountants
@@ -105,3 +98,12 @@ Shrikant Pawade
 
 * GitHub: https://github.com/Shree927432
 * LinkedIn: https://www.linkedin.com/in/shrikant-pawade-b36514293
+
+## ▶️ How to Run
+
+```bash
+pip install pandas
+python main.py
+
+
+
