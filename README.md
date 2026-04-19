@@ -47,8 +47,7 @@ This tool automates the reconciliation process by:
 ## 🛠️ Tech Stack
 
 - Python  
-- Pandas  
-- Regex (data cleaning)  
+- Pandas   
 - Excel/CSV Processing  
 
 ---
